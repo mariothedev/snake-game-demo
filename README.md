@@ -2,6 +2,7 @@
 Snake Game Using React Hooks
 
 
-# Run
+### Run
 npm i
+
 npm run start
